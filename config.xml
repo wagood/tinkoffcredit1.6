@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[tinkoffcredit]]></name>
+  <displayName><![CDATA[Tinkoff Credit]]></displayName>
+  <version><![CDATA[1.0.1]]></version>
+  <description><![CDATA[Accept payments with Tinkoff Credit]]></description>
+  <author><![CDATA[WAGOOD]]></author>
+  <author_uri/>
+  <tab><![CDATA[payments_gateways]]></tab>
+  <confirmUninstall><![CDATA[Are you sure you want to delete module and your details ?]]></confirmUninstall>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+  <limited_countries/>
+</module>
